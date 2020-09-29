@@ -1,4 +1,4 @@
-## My Introduction Page 
+# My Introduction Page 
 
 My first babysteps towards becoming a :computer: nerd.
 
