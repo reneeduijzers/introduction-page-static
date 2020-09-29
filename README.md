@@ -12,7 +12,7 @@ You can find working version [here](https://introduction-reneeduijzers.netlify.a
 
 ## Sample 
 
-todo (image or gif of the webversion)
+![App demo](https://github.com/reneeduijzers/introduction-page-static/blob/master/IntroductionPage.gif)
 
 ## Tech Used
 
