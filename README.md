@@ -8,7 +8,7 @@ My first webpage ever :open_mouth:. I made this static page for my fellow studen
 
 ## Online 
 
-You can find working version [here](https://introduction-reneeduijzers.netlify.app)
+You can find working version [here](https://introduction-reneeduijzers.netlify.app).
 
 ## Sample 
 
